@@ -9,33 +9,33 @@ namespace Tydzień2
             Console.WriteLine("Uzupełnij formularz");
             Console.WriteLine("Imię");
             {
-                string imię = "Adam";
+                string name = "Adam";
                 Console.ReadLine();
             }
             Console.WriteLine("Nazwisko");
             {
-                string nazwisko = "Kowalski";
+                string surname = "Kowalski";
                 Console.ReadLine();
             }
             Console.WriteLine("Wiek");
             {
-                int wiek = 30;
+                int age = 30;
                 Console.ReadLine();
             }
 
             Console.WriteLine("Płeć, k lub m");
             {
-                char płeć = 'm';
+                char sex = 'm';
                 Console.ReadLine();
             }
             Console.WriteLine("Numer PESEL");
             {
-                string NumerPESEL = "80010106174";
+                string NumberPESEL = "80010106174";
                 Console.ReadLine();
             }
             Console.WriteLine("Numer pracownika");
             {
-                string NumerPracownika = "987654321";
+                string NemployeeNumber = "987654321";
                 Console.ReadLine();
             }
             
